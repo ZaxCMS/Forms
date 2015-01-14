@@ -1,0 +1,17 @@
+{
+    "name": "zaxcms/forms",
+    "type": "library",
+    "description": "",
+    "licence": ["MIT"],
+    "require": {
+        "php": ">=5.4.0",
+        "nette/forms": ">=2.2.0"
+    },
+    "require-dev": {
+        "nette/tester": "~1.3",
+        "nette/nette": "~2.2"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}

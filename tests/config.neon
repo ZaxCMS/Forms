@@ -1,0 +1,5 @@
+extensions:
+    formMessages: Zax\DI\FormMessagesExtension
+
+formMessages:
+    Zax\Tests\TestValidator::negativeNumber: 'Number must be negative!'
